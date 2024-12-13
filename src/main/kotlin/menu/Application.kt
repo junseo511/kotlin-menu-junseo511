@@ -1,5 +1,7 @@
 package menu
 
+import menu.ui.GongBaekMenuPicker
+
 fun main() {
-    // TODO: 프로그램 구현
+    GongBaekMenuPicker().run()
 }
